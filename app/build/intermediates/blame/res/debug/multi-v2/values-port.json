@@ -1,18 +1,11 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Workspace\\Espoirsoft\\AndroidBase\\EspoirsoftServiceDemoTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "E:\\Workspace\\Espoirsoft\\AndroidBase\\BookAsket\\EspoWebApiRequestDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Espo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\d67c7e6a2d71af819809ff61d1bbb6c9\\res\\values-port\\values.xml",
+                    "source": "C:\\Users\\Espo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4321f3efd56a9fcae53b8a8dc9ebbb97\\res\\values-port\\values-port.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "56",
-                        "endColumns": "55",
-                        "endOffsets": "107"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
