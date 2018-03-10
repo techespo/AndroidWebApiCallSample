@@ -1,4 +1,4 @@
-#Sun Feb 18 01:58:43 IST 2018
-base.0=E\:\\Workspace\\Espoirsoft\\AndroidBase\\BookAsket\\EspoWebApiRequestDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sat Mar 10 11:10:32 IST 2018
+base.0=E\:\\Workspace\\LearningGitHub\\Android\\AndroidWebApiCallSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

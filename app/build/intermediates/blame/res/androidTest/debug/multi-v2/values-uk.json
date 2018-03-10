@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Workspace\\Espoirsoft\\AndroidBase\\BookAsket\\EspoWebApiRequestDemo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-uk\\values-uk.xml",
+            "outputFile": "E:\\Workspace\\LearningGitHub\\Android\\AndroidWebApiCallSample\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-uk\\values-uk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Espo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4321f3efd56a9fcae53b8a8dc9ebbb97\\res\\values-uk\\values-uk.xml",

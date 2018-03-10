@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Workspace\\Espoirsoft\\AndroidBase\\BookAsket\\EspoWebApiRequestDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\Workspace\\LearningGitHub\\Android\\AndroidWebApiCallSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "E:\\Workspace\\LearningGitHub\\Android\\AndroidWebApiCallSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "519",
+                        "startColumns": "4",
+                        "startOffsets": "48058",
+                        "endColumns": "58",
+                        "endOffsets": "48112"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Espo\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.0.2.aar\\d39f5602a11caba2ee65eabc1a48b57f\\res\\values\\values.xml",
                     "from": {
@@ -20,6 +37,23 @@
                         "endLines": "2,6,9,10,13,16,17,20,23,24,25,26,30,31,32,33,38,39,40,43,46,47,50,53,56,59,60,63,66,67,72,73,77,78,79,80,81,82,83,84,85,86,87,93",
                         "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11",
                         "endOffsets": "102,321,454,522,651,777,844,967,1092,1159,1224,1289,1429,1495,1561,1628,1838,1907,1973,2098,2224,2291,2417,2544,2669,2796,2861,2987,3110,3175,3383,3450,3589,3654,3719,3781,3843,3905,3964,4024,4085,4146,4205,4414"
+                    }
+                },
+                {
+                    "source": "E:\\Workspace\\LearningGitHub\\Android\\AndroidWebApiCallSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "118,119,120",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6189,6235,6282",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "6230,6277,6328"
                     }
                 },
                 {
@@ -42,41 +76,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Workspace\\Espoirsoft\\AndroidBase\\BookAsket\\EspoWebApiRequestDemo\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "58",
-                        "endOffsets": "71"
-                    },
-                    "to": {
-                        "startLines": "519",
-                        "startColumns": "4",
-                        "startOffsets": "48058",
-                        "endColumns": "58",
-                        "endOffsets": "48112"
-                    }
-                },
-                {
-                    "source": "E:\\Workspace\\Espoirsoft\\AndroidBase\\BookAsket\\EspoWebApiRequestDemo\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "118,119,120",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "6189,6235,6282",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "6230,6277,6328"
-                    }
-                },
-                {
-                    "source": "E:\\Workspace\\Espoirsoft\\AndroidBase\\BookAsket\\EspoWebApiRequestDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\Workspace\\LearningGitHub\\Android\\AndroidWebApiCallSample\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
